@@ -2,7 +2,7 @@
 
 JavaScript solutions for some interesting LeetCode problems. Doing this for fun to keep track of my progress. Feel free to use these scripts and improve your skills along with me.
 
-# Example
+## Example
 
 ```javascript
 // Link https://leetcode.com/problems/two-sum/
@@ -28,7 +28,3 @@ var twoSum = function (nums, target) {
   }
 }
 ```
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
